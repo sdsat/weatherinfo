@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "weatherapp-523fe",
+    "weatherapp-7f385": "weatherapp-523fe"
+  },
+  "targets": {},
+  "etags": {}
+}
